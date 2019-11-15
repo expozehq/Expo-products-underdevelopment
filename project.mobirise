@@ -37,7 +37,7 @@
     "favicon": false,
     "": "on",
     "noImageResize": true,
-    "cssOptimize": false,
+    "cssOptimize": true,
     "lazyLoad": false,
     "lazyType": "nothing",
     "robotsSwitcher": false,
